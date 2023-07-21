@@ -1,12 +1,8 @@
 team: KIA
-<<<<<<< HEAD
 manager: 이기원
-=======
-manager: 최보윤
->>>>>>> conflict-1
 coach: 김길동
 
 members:
 - 양현종
 - 최형우
-- 나성범
+- 나성
