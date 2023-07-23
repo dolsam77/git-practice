@@ -8,4 +8,8 @@ members:
 - 자욱
 - 병신
 - JSP
+<<<<<<< HEAD
 - MySQL
+=======
+- Oracle
+>>>>>>> 0e54b8a (update oracle NC)
